@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       boxShadow: {
-        card: "16px 16px 32px 0px rgba(0,0,0,0.7)",
-        pic: "8px 8px 32px -4px rgba(0,0,0,0.6)",
+        card: "16px 16px 32px 0px rgba(14,41,84,0.7)",
+        pic: "8px 8px 32px -4px rgba(14,41,84,0.6)",
       }
     },
   },

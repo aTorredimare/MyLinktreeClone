@@ -11,9 +11,16 @@ const icons = {
 }
 
 const backgrounds = {
-    container: "bg-blue-500",
-    card: "bg-blue-300"
+    container: "bg-[#1f6e8c]",
+    card: "bg-[#84a7a1]"
 };
+
+const palette = {
+    1: "bg-[#0e2954]",
+    2: "bg-[#1f6e8c]",
+    3: "bg-[#2e8a99]",
+    4: "bg-[#84a7a1]",
+}
 
 export {icons, backgrounds}
 
