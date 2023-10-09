@@ -3,6 +3,6 @@ This is a very simple Linktree-like page, containing simple links to my GitHub a
 It was created using React.js with Vite and it is at the moment hosted on my [test domain](https://www.torretest.uno)
 
 ### How does it look?
-![ScreenShot](./src/assets/screenshot.png)
+![ScreenShot](./imgs/screenshot.png)
 
 
