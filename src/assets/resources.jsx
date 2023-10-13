@@ -11,8 +11,10 @@ const icons = {
 }
 
 const backgrounds = {
-    container: "bg-[#1f6e8c]",
-    card: "bg-[#84a7a1]"
+    container: "bg-slate-300",
+    card1: "bg-purple-400",
+    card2: "bg-sky-300",
+    card3: "bg-lime-400"
 };
 
 const palette = {

@@ -3,6 +3,7 @@ import './App.css'
 import { MyCard, MyCardWithDownload } from './Components/Cards'
 import {Bio} from './Components/Bio'
 import {icons, backgrounds} from './assets/resources'
+//import bG from './assets/coding2.jpg'  style={{backgroundImage: `url(${bG})`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover'}}
 
 function App() {
   return (
@@ -16,9 +17,9 @@ function App() {
 
         <Bio />
         <div className='pt-12 mx-auto flex flex-col gap-8'>
-          <MyCard link={"https://github.com/aTorredimare"} background={backgrounds.card} name={"GitHub"} icon={icons.github} />
-          <MyCard link={"https://www.linkedin.com/in/andrea-torredimare-80976b184/"} background={backgrounds.card} name={"LinkedIn"} icon={icons.linkedin} />
-          <MyCardWithDownload link={"#"} background={backgrounds.card} name={"My CV"} icon={icons.cv} />
+          <MyCard link={"https://github.com/aTorredimare"} background={backgrounds.card1} name={"GitHub"} icon={icons.github} />
+          <MyCard link={"https://www.linkedin.com/in/andrea-torredimare-80976b184/"} background={backgrounds.card2} name={"LinkedIn"} icon={icons.linkedin} />
+          <MyCardWithDownload link={"#"} background={backgrounds.card3} name={"My CV"} icon={icons.cv} />
 
         </div>
       </div>
