@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import cv from '../assets/CV_agg_20231009.pdf';
+import cv from '../assets/CV_agg_20240711.pdf';
 
 function MyCard(props) {
     return (
